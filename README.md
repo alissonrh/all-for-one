@@ -1,4 +1,4 @@
-# 🚧 README em construção 🚧
+Projeto *All For One* em que foi praticado conceitos de SQL. Foi usado o banco de dados  `Northwind`. 
 
 <!-- Olá, Tryber!
 
